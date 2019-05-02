@@ -1,40 +1,26 @@
 # *_l functions
 ## POSIX.1-2008
 
-### \<ctype.h\>
+### \<ctype.h\>, \<wctype.h\>
 
-* isalnum_l
-* isalpha_l
-* isblank_l
-* iscntrl_l
-* isdigit_l
-* isgraph_l
-* islower_l
-* isprint_l
-* ispunct_l
-* isspace_l
-* isupper_l
-* isxdigit_l
-* tolower_l
-* toupper_l
+* isalnum_l, iswalnum_l
+* isalpha_l, iswalpha_l
+* isblank_l, iswblank_l
+* iscntrl_l, iswcntrl_l
+* isdigit_l, iswdigit_l
+* isgraph_l, iswgraph_l
+* islower_l, iswlower_l
+* isprint_l, iswprint_l
+* ispunct_l, iswpunct_l
+* isspace_l, iswspace_l
+* isupper_l, iswupper_l
+* isxdigit_l, iswxdigit_l
+* tolower_l, towlower_l
+* toupper_l, towupper_l
 
 ### \<wctype.h\>
 
-* iswalnum_l
-* iswalpha_l
-* iswblank_l
-* iswcntrl_l
-* iswdigit_l
-* iswgraph_l
-* iswlower_l
-* iswprint_l
-* iswpunct_l
-* iswspace_l
-* iswupper_l
-* iswxdigit_l
 * iswctype_l
-* towlower_l
-* towupper_l
 * towctrans_l
 * wctrans_l
 * wctype_l
