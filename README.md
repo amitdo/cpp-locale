@@ -6,7 +6,7 @@ std::to_string
 
 imbue()
 
-streams << ><
+streams << >>
 
 snprintf
 
