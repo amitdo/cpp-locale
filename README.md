@@ -14,7 +14,7 @@ snprintf
 
 to_chars, from_chars
 
-to_chars: https://github.com/fastfloat/fast_float
+from_chars: [fast_float](https://github.com/fastfloat/fast_float)
 
 ## C++20
 
