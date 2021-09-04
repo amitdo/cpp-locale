@@ -20,4 +20,4 @@ from_chars: [fast_float](https://github.com/fastfloat/fast_float)
 
 std::format
 
-std < C++20 : fmt library 
+std < C++20 : [fmtlib](https://github.com/fmtlib/fmt)
