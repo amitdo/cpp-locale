@@ -8,7 +8,7 @@ imbue()
 
 streams << >>
 
-snprintf
+snprintf (C)
 
 ## C++17
 
