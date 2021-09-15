@@ -1,6 +1,6 @@
 # cpp-locale
 
-## C++11/14
+## C++ 98/11/14
 
 std::to_string
 
