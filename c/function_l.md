@@ -73,3 +73,7 @@
 
 
 https://developer.apple.com/library/archive/documentation/System/Conceptual/ManPages_iPhoneOS/man3/xlocale.3.html#//apple_ref/doc/man/3/xlocale
+
+https://github.com/MicrosoftDocs/cpp-docs/blob/master/docs/c-runtime-library/reference/sscanf-sscanf-l-swscanf-swscanf-l.md
+
+https://stackoverflow.com/questions/41794607/locale-invariant-string-processing-with-strtod-strtof-atof-printf
