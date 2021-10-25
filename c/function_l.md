@@ -53,8 +53,23 @@
 
 
 ### \<stdio.h\>
-* sscanf_l
+
+* asprintf_l
+* fprintf_l
 * printf_l
-* fprint_l
+* snprintf_l
+* sprintf_l
+* vasprintf_l
+* vfprintf_l
+* vprintf_l
+* vsnprintf_l
+* vsprintf_l
+* fscanf_l
+* scanf_l
+* sscanf_l
+* vfscanf_l
+* vscanf_l
+* vsscanf_l
+
 
 https://developer.apple.com/library/archive/documentation/System/Conceptual/ManPages_iPhoneOS/man3/xlocale.3.html#//apple_ref/doc/man/3/xlocale
