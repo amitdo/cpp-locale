@@ -43,3 +43,15 @@
 ### \<time.h\>
 
 * strftime_l
+
+### \<stdlib.h\>
+
+* atof_l
+* atoi_l, atol_l, atoll_l 
+* strtod_l, strtof_l, strtold_l
+* strtol_l, strtoll_l, strtoul_l, strtoull_l
+* sscanf_l
+* printf_l
+* fprint_l
+
+https://developer.apple.com/library/archive/documentation/System/Conceptual/ManPages_iPhoneOS/man3/xlocale.3.html#//apple_ref/doc/man/3/xlocale
