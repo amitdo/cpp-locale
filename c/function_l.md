@@ -79,3 +79,9 @@ https://developer.apple.com/library/archive/documentation/System/Conceptual/ManP
 https://github.com/MicrosoftDocs/cpp-docs/blob/master/docs/c-runtime-library/reference/sscanf-sscanf-l-swscanf-swscanf-l.md
 
 https://stackoverflow.com/questions/41794607/locale-invariant-string-processing-with-strtod-strtof-atof-printf
+
+https://github.com/bminor/glibc
+
+https://github.com/llvm/llvm-project
+
+https://github.com/microsoft/STL
