@@ -44,6 +44,8 @@
 
 * strftime_l
 
+## Non-Standard
+
 ### \<stdlib.h\>
 
 * atof_l
