@@ -46,7 +46,7 @@
 
 ## Non-Standard
 
-### widely Supported
+### Widely Supported
 
 ### \<stdlib.h\>
 
