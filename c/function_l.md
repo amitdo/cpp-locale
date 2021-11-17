@@ -46,13 +46,17 @@
 
 ## Non-Standard
 
+### widely Supported
+
+### \<stdlib.h\>
+
+* strtod_l, strtof_l, strtold_l
+* strtol_l, strtoll_l, strtoul_l, strtoull_l
+
 ### \<stdlib.h\>
 
 * atof_l
 * atoi_l, atol_l, atoll_l 
-* strtod_l, strtof_l, strtold_l
-* strtol_l, strtoll_l, strtoul_l, strtoull_l
-
 
 ### \<stdio.h\>
 
