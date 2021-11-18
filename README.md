@@ -14,8 +14,9 @@ snprintf (C)
 
 to_chars, from_chars See [here](https://github.com/amitdo/cpp-locale/blob/master/to_chars-from_chars.md)
 
-
-from_chars: [fast_float](https://github.com/fastfloat/fast_float)
+from_chars:
+* [fast_float](https://github.com/fastfloat/fast_float)
+* [abseil from_chars](https://abseil.io/about/design/charconv)
 
 ## C++20
 
