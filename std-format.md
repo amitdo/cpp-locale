@@ -12,6 +12,4 @@ https://oopscenities.net/2021/05/31/cpp20-fmt/
 
 https://devblogs.microsoft.com/cppblog/format-in-visual-studio-2019-version-16-10/
 
-
-
-
+https://libcxx.llvm.org/Status/Format.html
