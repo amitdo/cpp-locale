@@ -83,6 +83,8 @@ https://developer.apple.com/library/archive/documentation/System/Conceptual/ManP
 
 https://docs.microsoft.com/en-us/cpp/c-runtime-library/locale?view=msvc-170
 
+https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/crt-alphabetical-function-reference?view=msvc-170
+
 https://github.com/MicrosoftDocs/cpp-docs/blob/master/docs/c-runtime-library/reference/sscanf-sscanf-l-swscanf-swscanf-l.md
 
 https://stackoverflow.com/questions/41794607/locale-invariant-string-processing-with-strtod-strtof-atof-printf
