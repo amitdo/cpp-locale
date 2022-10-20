@@ -1,6 +1,6 @@
 charconv: to_chars, from_chars  
 * libstd++ 8.1 - int, 11.1 - fp
-* libc++ 7.0 - int
+* libc++ 7.0 - int only, no fp, 14 - no FP from_chars
 * VS
   * int
     * 2017 15.7.0 (May 07, 2018)
