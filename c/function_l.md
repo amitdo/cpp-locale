@@ -46,7 +46,7 @@
 
 ## Non-Standard
 
-### Widely Supported
+### Supported by FreeBSD, macOS, Windows 
 
 ### \<stdlib.h\>
 
@@ -90,6 +90,8 @@ https://github.com/MicrosoftDocs/cpp-docs/blob/master/docs/c-runtime-library/ref
 https://stackoverflow.com/questions/41794607/locale-invariant-string-processing-with-strtod-strtof-atof-printf
 
 https://github.com/bminor/glibc
+
+-----
 
 https://github.com/llvm/llvm-project
 
