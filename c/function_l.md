@@ -79,6 +79,8 @@
 
 -----
 
+https://www.freebsd.org/cgi/man.cgi?query=xlocale&sektion=3&manpath=FreeBSD+9.1-RELEASE
+
 https://developer.apple.com/library/archive/documentation/System/Conceptual/ManPages_iPhoneOS/man3/xlocale.3.html#//apple_ref/doc/man/3/xlocale
 
 https://docs.microsoft.com/en-us/cpp/c-runtime-library/locale?view=msvc-170
@@ -88,6 +90,7 @@ https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/crt-alphabetica
 https://github.com/MicrosoftDocs/cpp-docs/blob/master/docs/c-runtime-library/reference/sscanf-sscanf-l-swscanf-swscanf-l.md
 
 https://stackoverflow.com/questions/41794607/locale-invariant-string-processing-with-strtod-strtof-atof-printf
+
 
 https://github.com/bminor/glibc
 
