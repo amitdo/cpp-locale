@@ -18,6 +18,12 @@ from_chars:
 * [fast_float](https://github.com/fastfloat/fast_float)
 * [abseil from_chars](https://abseil.io/about/design/charconv)
 
+https://github.com/fmtlib/fmt/issues/147
+
+https://github.com//dtoa-benchmark
+
+https://news.ycombinator.com/item?id=17633282
+
 ## C++20
 
 std::format
