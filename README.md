@@ -30,6 +30,8 @@ std::format
 
 GCC 13
 
+https://github.com/gcc-mirror/gcc/blob/master/libstdc%2B%2B-v3/include/std/format
+
 https://github.com/gcc-mirror/gcc/commit/1d9454aba615ea
 
 Clang 15
