@@ -4,6 +4,8 @@ https://github.com/fmtlib/fmt/blob/master/ChangeLog.rst
 
 https://github.com/jk-jeon/dragonbox
 
+https://github.com/jk-jeon/Grisu-Exact
+
 https://www.zverovich.net/slides/2019-04-fp.pdf
 
 https://github.com/fmtlib/dtoa-benchmark
