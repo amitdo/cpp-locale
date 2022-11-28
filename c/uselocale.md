@@ -1,5 +1,5 @@
 
-uselocale (POSIX-2008)
+uselocale(): POSIX-2008
 
 For windows, use setlocle(). Alternatively, use function_l(). 
 
