@@ -1,12 +1,12 @@
 printf "locale independent" dtoa
 
+https://github.com/fmtlib/dtoa-benchmark
+
 https://www.zverovich.net/slides/2019-04-fp.pdf
 
 https://github.com/fmtlib/fmt/issues/1426
 
 https://github.com/fmtlib/fmt/issues/147
-
-https://github.com/fmtlib/dtoa-benchmark
 
 https://news.ycombinator.com/item?id=17633282
 
