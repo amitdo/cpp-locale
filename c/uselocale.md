@@ -10,3 +10,5 @@ https://learn.microsoft.com/en-us/cpp/c-runtime-library/reference/configthreadlo
 https://stackoverflow.com/questions/4057319/is-setlocale-thread-safe-function
 
 https://github.com/DanBloomberg/leptonica/issues/591
+
+https://learn.microsoft.com/en-us/cpp/c-runtime-library/locale?view=msvc-170
