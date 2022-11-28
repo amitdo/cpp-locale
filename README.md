@@ -34,4 +34,5 @@ std < C++20 : [fmtlib](https://github.com/fmtlib/fmt)
 ## C
 
 [function_l](https://github.com/amitdo/cpp-locale/blob/master/c/function_l.md)\
-[uselocale](https://github.com/amitdo/cpp-locale/blob/master/c/uselocale.md)
+[uselocale](https://github.com/amitdo/cpp-locale/blob/master/c/uselocale.md)\
+[misc](https://github.com/amitdo/cpp-locale/blob/master/c/misc.md)
