@@ -1,7 +1,7 @@
 
 uselocale (POSIX-2008)
 
-setlocle: use for windows only
+For windows use setlocle(). Alternatively, use function_l(). 
 
 https://stackoverflow.com/questions/4057319/is-setlocale-thread-safe-function
 
