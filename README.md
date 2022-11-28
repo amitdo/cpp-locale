@@ -28,8 +28,15 @@ https://news.ycombinator.com/item?id=17633282
 
 std::format
 
-std < C++20 : [fmtlib](https://github.com/fmtlib/fmt)
+GCC 13
 
+https://github.com/gcc-mirror/gcc/commit/1d9454aba615ea
+
+Clang 15
+
+MSVC 2019, 2022
+
+std < C++20 : [fmtlib](https://github.com/fmtlib/fmt)
 
 ## C
 
