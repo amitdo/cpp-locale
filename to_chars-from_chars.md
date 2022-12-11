@@ -7,11 +7,8 @@ charconv: to_chars, from_chars
   * fp
     * from_chars()
       * 2017 15.8
-    * to_chars() overloads for...
-      * 2017 15.9: shortest decimal
-      * 2019 16.0: shortest hex and precision hex
-      * 2019 16.2: precision fixed and precision scientific  
-      * 2019 16.4: precision general
+    * to_chars()
+      * 2019 16.4
 
 Elementary string conversions, revision 5
 
