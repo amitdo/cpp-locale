@@ -34,7 +34,7 @@ https://github.com/gcc-mirror/gcc/blob/master/libstdc%2B%2B-v3/include/std/forma
 
 https://github.com/gcc-mirror/gcc/commit/1d9454aba615ea
 
-Clang 15
+Clang 15. 17 - 'stable' 
 
 MSVC 2019, 2022
 
