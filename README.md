@@ -45,3 +45,7 @@ std < C++20 : [fmtlib](https://github.com/fmtlib/fmt)
 [function_l](https://github.com/amitdo/cpp-locale/blob/master/c/function_l.md)\
 [uselocale](https://github.com/amitdo/cpp-locale/blob/master/c/uselocale.md)\
 [misc](https://github.com/amitdo/cpp-locale/blob/master/c/misc.md)
+
+-----
+
+https://www.reddit.com/r/cpp/comments/ubppb9/the_year_is_2022_and_the_standard_is_c20_what_is/
