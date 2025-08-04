@@ -28,17 +28,14 @@ https://news.ycombinator.com/item?id=17633282
 
 std::format
 
-GCC 13
+GCC 13, Clang  17, MSVC 2019, 2022
+
 
 https://github.com/gcc-mirror/gcc/blob/master/libstdc%2B%2B-v3/include/std/format
 
 https://github.com/gcc-mirror/gcc/commit/1d9454aba615ea
 
-Clang 15. 17 - 'stable' 
-
-MSVC 2019, 2022
-
-std < C++20 : [fmtlib](https://github.com/fmtlib/fmt)
+std before C++20 : [fmtlib](https://github.com/fmtlib/fmt)
 
 ## C
 
